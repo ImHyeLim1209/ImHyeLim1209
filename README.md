@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Imhyelim&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Imhyelim&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <h3 align="center">😊 Hi there 😊</h3>
 <p align="center">
