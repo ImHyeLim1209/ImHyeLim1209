@@ -1,7 +1,5 @@
-<header align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Imhyelim&fontSize=90)
-</header>
+
 
 <h3 align="center">😊 Hi there 😊</h3>
 <p align="center">
@@ -20,7 +18,7 @@
   <br>
   <img src="https://img.shields.io/badge/React-232023?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/styledcomponents-db7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/styled components-db7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
   
   <br>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232f3e?&style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
@@ -39,16 +37,14 @@
 
 </br>
 </br>
+<h3 align="center">🎨 Code 🎨</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImHyeLim1209&layout=compact&theme=dracula" />
 </p>
 
 
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=150&section=footer&rotate=-30)
 
-<Footer align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=footer&rotate=-30)
-</Footer>
 <!--
 **ImHyeLim1209/ImHyeLim1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
