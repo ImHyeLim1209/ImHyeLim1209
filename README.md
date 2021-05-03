@@ -10,7 +10,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">  
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ypescript-23007A?&style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Typescript-23007A?&style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/c%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp
 
   
